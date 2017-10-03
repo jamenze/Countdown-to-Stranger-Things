@@ -1,0 +1,46 @@
+body {
+	background: url('Image/background.jpg') no-repeat center;
+	background-size: cover;  
+	height: 100vh; /*Image will take up the entire screen*/
+	text-align: center;
+	color: white;
+}
+
+a {
+    color: goldenrod;
+}
+
+h1 {
+
+	font-size: 50px;
+	margin: 40px 0px 0px; /*top left/right bottom*/
+	font-family: 'Silkscreen';
+
+}
+
+#timer-div {
+	color: #fff;
+	display: inline block;
+	font-size: 30px;
+	margin-top: 30px;
+}
+
+.time-unit, .time-unit > span {
+	display: inline-block;
+	padding: 10px;
+	background-color: Maroon;
+	border-radius: 5px;
+	border: 1px solid white;
+}
+
+
+@font-face {
+    font-family: 'Silkscreen';
+    src: url('Font/Silkscreen/slkscre-webfont.woff');
+    font-weight:400;
+}
+
+.top-buffer { margin-top: 150px;}
+
+.bottom-buffer { margin-top: 40px;}
+
