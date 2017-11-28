@@ -1,5 +1,5 @@
 
-![alt text](countdown_demo.gif "view a demo for Countdown to Stranger Things Season 2!")
+![alt text](countdown_demo2.gif "view a demo for Countdown to Stranger Things Season 2!")
 # Countdown to Stranger Things Season 2
 
 ## Credit
