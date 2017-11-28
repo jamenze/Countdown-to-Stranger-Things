@@ -35,6 +35,6 @@ function updateTimer() {
 
 }
 
-var endDate = new Date("October 27, 2018");
+var endDate = new Date("October 27, 2017");
 ```
 
