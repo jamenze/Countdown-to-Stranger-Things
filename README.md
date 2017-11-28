@@ -11,7 +11,7 @@
 * CSS
 
 ## MVP (Minimum Viable Product)
-* Timer counts down to October 27, 2018
+* Timer counts down to October 27, 2017
 
 ## Code Snippets
 ```
