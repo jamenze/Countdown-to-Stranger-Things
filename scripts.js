@@ -19,7 +19,7 @@ function updateTimer() {
 
 }
 
-var endDate = new Date("October 27, 2017");
+var endDate = new Date("July 4, 2019");
 // console.log(endDate);
 
 // setInterval will run the first arg (function) every 1000 milliseconds/1 second
