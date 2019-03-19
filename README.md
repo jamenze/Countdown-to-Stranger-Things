@@ -1,6 +1,9 @@
 
-![alt text](countdown_demo3.gif "view a demo for Countdown to Stranger Things Season 2!")
-# Countdown to Stranger Things Season 2
+![alt text](S3_Countdown.gif "view a demo for Countdown to Stranger Things Season 3!")
+# Countdown to Stranger Things Season 3
+
+## Live Demo
+* [CLICK TO VIEW](https://optimistic-lamarr-c9337c.netlify.com)
 
 ## Credit
 * Font credit | Jason Kottke's [Silkscreen](http://www.kottke.org/plus/type/silkscreen/index.html)
@@ -11,7 +14,7 @@
 * CSS
 
 ## MVP (Minimum Viable Product)
-* Timer counts down to October 27, 2017
+* Timer counts down to July 4, 2019
 
 ## Code Snippets
 ```
@@ -35,6 +38,6 @@ function updateTimer() {
 
 }
 
-var endDate = new Date("October 27, 2017");
+var endDate = new Date("July 4, 2019");
 ```
 
